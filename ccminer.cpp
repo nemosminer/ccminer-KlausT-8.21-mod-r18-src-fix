@@ -56,7 +56,7 @@ BOOL WINAPI ConsoleHandler(DWORD);
 #endif
 
 #define PROGRAM_NAME		"ccminer"
-#define LP_SCANTIME		25
+#define LP_SCANTIME		10
 #define MNR_BLKHDR_SZ 80
 
 double expectedblocktime(const uint32_t *target);
