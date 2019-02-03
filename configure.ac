@@ -1,4 +1,4 @@
-AC_INIT([ccminer], [8.21-KlausT])
+AC_INIT([ccminer], [8.21-KlausT-yescrypt algo/s + lyra2v3])
 
 AC_PREREQ([2.59c])
 AC_CANONICAL_SYSTEM
