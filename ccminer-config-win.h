@@ -156,7 +156,7 @@
 #define PACKAGE_NAME "ccminer"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "8.21-KlausT-yescrypt algo/s + lyra2v3"
+#define PACKAGE_STRING "ccminer 8.21-KlausT-yescrypt algo/s + lyra2v3"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "ccminer"
